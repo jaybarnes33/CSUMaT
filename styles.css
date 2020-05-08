@@ -97,7 +97,9 @@ p {
 .ficon:hover {
   color: #ff4c68;
 }
-
+.fa-whatsapp {
+  color:green;
+}
 h3 {
   font: "Montserrat-Bold";
   font-size: 1.5rem;
